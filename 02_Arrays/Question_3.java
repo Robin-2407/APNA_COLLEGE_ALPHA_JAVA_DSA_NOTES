@@ -81,3 +81,14 @@ public class Question_3 {
         System.out.println(threeSum(nums));
     }
 }
+
+// Brute Force Approach
+// Time Complexity: O(n^3)
+// Space Complexity: O(1)
+
+// Optimized Approach
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+// The optimized approach is better than the brute force approach because it
+// reduces the time complexity from O(n^3) to O(n^2) by using sorting and two
+// pointers technique.
